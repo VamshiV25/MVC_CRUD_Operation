@@ -21,7 +21,7 @@ public class AddController extends HttpServlet {
 		            
 		            AddBean addBean=new AddBean(); 
 		           //this class contain setting up all receive values from add.
-		           //jsp page to seeter and getter method for application require 
+		           //jsp page to setter and getter method for application require 
 		           //effectively
 		            
 		            addBean.setName(name); //set name through addBean object
